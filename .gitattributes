@@ -1,0 +1,2 @@
+avalanchego-linux-amd64-v1.8.5.tar.gz filter=lfs diff=lfs merge=lfs -text
+foundry_nightly_2022_09_20_linux_amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
