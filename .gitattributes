@@ -10,3 +10,5 @@ foundry_nightly_2022_10_19_linux_amd64.tar.gz filter=lfs diff=lfs merge=lfs -tex
 avalanchego-macos-v1.8.5.zip filter=lfs diff=lfs merge=lfs -text
 avalanchego-macos-v1.8.5.tar.gz filter=lfs diff=lfs merge=lfs -text
 avalanchego-linux-amd64-v1.9.0.tar.gz filter=lfs diff=lfs merge=lfs -text
+avalanchego-macos-amd64-v1.9.1.tar.gz filter=lfs diff=lfs merge=lfs -text
+avalanchego-macos-arm64-v1.9.1.tar.gz filter=lfs diff=lfs merge=lfs -text
